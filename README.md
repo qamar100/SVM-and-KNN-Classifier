@@ -40,9 +40,13 @@ The code is organized into the following files:
 train-classification-knn.ipynb: Implements the KNN classification algorithm. It includes functions for training the model, making predictions, and evaluating the performance.
 
 train-classification-svm.ipynb: Implements the SVM classification algorithm. It includes functions for training the model, making predictions, and evaluating the performance.
+
 images: Contains contains the whole dataset used to train and test models
+
 ValidationData: Contains useen data to validate the model
+
 knn_sample.yml: saved knn model
+
 svm.joblib: saved SVM model
 
 ## To run the code and reproduce the classification results, follow these steps:
